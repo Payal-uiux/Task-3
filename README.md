@@ -1,33 +1,35 @@
-# UI/UX Task 1 – Freelance Platform Design (Future Interns Internship)
+# UI/UX Task 3 – Freelance App Design (Mobile & Desktop)
 
-This repository showcases **Task 1** created for the **Future Interns Internship Program**.  
-The task focuses on designing a **freelance platform specifically for UI/UX designers**, covering core user flows and interface layouts using **Figma**.
+This repository presents **Task 3** created for the **Future Interns Internship Program**.  
+The task involves designing a **freelance application for UI/UX designers**, with both **mobile and desktop versions**, focusing on usability, consistency, and modern UI practices.
 
 ---
 
 ## 🎯 Task Objective
 
-The goal of this task was to:
-- Design a user-friendly **freelance platform** for UI/UX designers
-- Apply core **UI/UX principles** such as usability, hierarchy, and consistency
-- Create a clean and modern interface suitable for real-world products
+The objective of this task was to:
+- Design a **freelance app platform** tailored for UI/UX designers
+- Create **responsive designs** for both mobile and desktop
+- Apply strong **UI/UX fundamentals** including hierarchy, spacing, and accessibility
+- Ensure a smooth and intuitive user experience across devices
 
 ---
 
 ## 🧩 Design Scope
 
-The design includes:
-- Platform layout for freelancers and clients
-- Clear navigation and user flow
-- Modern UI components and spacing
-- Consistent typography and color usage
-- Designer-focused user experience
+The design covers:
+- Mobile and desktop layouts
+- User onboarding and navigation flow
+- Project browsing and interaction UI
+- Profile and dashboard interface
+- Clean visual hierarchy and reusable components
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
-- **Figma** – UI design and layout
+- **Figma** – UI/UX design and prototyping
+- **Design Systems** – Consistent components and styles
 - **UX Principles** – User-centered design approach
 
 ---
@@ -35,18 +37,18 @@ The design includes:
 ## 🔗 Figma Design Link
 
 👉 **View the complete design here:**  
-[UI/UX Task 1 – Freelance Platform Design (Figma)](https://www.figma.com/design/PxgVYuBttkJkY2OqQoaDUs/UI-UX-task-3-freelance-platform?node-id=3-2&t=HnT00EUqFYDnB1CC-1)
+[UI/UX Task 3 – Freelance App Design (Figma)](https://www.figma.com/design/PxgVYuBttkJkY2OqQoaDUs/UI-UX-task-3-freelance-platform?node-id=93-340&t=nbww8E5RYUG1dYGe-1)
 
-> Note: Make sure you are logged into Figma and have view access enabled.
+> Note: Please ensure you are logged into Figma and have view access enabled.
 
 ---
 
 ## 📌 About the Internship
 
-This task was created as part of the **Future Interns Internship**, aimed at:
-- Evaluating UI/UX design skills
-- Understanding design thinking and problem-solving
-- Preparing interns for real-world product design challenges
+This task was completed as part of the **Future Interns Internship**, which focuses on:
+- Practical UI/UX design challenges
+- Real-world application design scenarios
+- Strengthening design thinking and problem-solving skills
 
 ---
 
@@ -60,4 +62,4 @@ Intern – Future Interns
 
 ## 📄 License
 
-This project is for **educational and evaluation purposes only**.
+This project is created for **learning and evaluation purposes only**.
